@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi I'm Ashish M J 
 
 <!--
 **ashish-mj/ashish-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-mj&show_icons=true&theme=Gradient&&hide=prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-mj&layout=compact&hide=css,html,shell,jupyternotebook,perl)](https://github.com/ashish-mj/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashish-mj&repo=SnapLab&show_owner=True)](https://github.com/ashish-mj/SnapLab)
+
+
+
