@@ -1,4 +1,7 @@
-# Hi I'm Ashish M J 
+# Hi I'm Ashish M J
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73954439/187063930-01ac3ca9-cf55-4ca1-875b-232f37a2c38e.png" width="300" height="300"/>
+</p>
 
 ## 💫 ABOUT ME
 🌱 A keen learner, who always strives to feed curiosity and learn about new technologies.<br> An Associate Software Engineer with a demonstrated history of working in the internet industry. Skilled in trending technologies and a strong engineering professional with a Bachelor of Engineering focused in Information Technology from The National Institute Of Engineering, Mysore.
@@ -17,13 +20,8 @@
 ## 🏆 GITHUB TROPHIES
 ![](https://github-profile-trophy.vercel.app/?username=ashish-mj&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
-## ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-<img src="https://i.pinimg.com/originals/87/7a/13/877a13c05bd3699376c4124761062a6d.png" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ashish-mj&icon=5&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://razorpay.com/payment-link/plink_K8HtVDo0mNDOqx) 
