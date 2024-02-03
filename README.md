@@ -22,6 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashish-mj&icon=5&color=12)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://razorpay.com/payment-link/plink_K8HtVDo0mNDOqx) 
