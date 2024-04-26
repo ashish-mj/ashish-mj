@@ -4,7 +4,7 @@
 </p>
 
 ## 💫 ABOUT ME
-🌱 A keen learner, who always strives to feed curiosity and learn about new technologies.<br> An Associate Software Engineer with a demonstrated history of working in the internet industry. Skilled in trending technologies and a strong engineering professional with a Bachelor of Engineering focused in Information Technology from The National Institute Of Engineering, Mysore.
+🌱 A keen learner, who always strives to feed curiosity and learn about new technologies.<br> A Software Engineer with a demonstrated history of working in the internet industry. Skilled in trending technologies and a strong engineering professional with a Bachelor of Engineering focused in Information Technology from The National Institute Of Engineering, Mysore.
 <br>💬 ESC - EAT SLEEP CODE <br>⚡ UNLUCKY <br>
 
 ## 🌐 SOCIALS
